@@ -9,7 +9,7 @@ Lisa Denzer
 A data mining exercise on the video game sales database. Descriptive report available in final report.
 
 The effort entails:
-*data cleanup 
-*k nearest neighbors analysis of data 
-*implementation of an ID-3 induction tree
-*implementation of an artificial neural network using open source libraries
+1) data cleanup 
+2) k nearest neighbors analysis of data 
+3) implementation of an ID-3 induction tree
+4) implementation of an artificial neural network using open source libraries
